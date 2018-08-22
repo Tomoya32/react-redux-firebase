@@ -348,37 +348,3 @@ It can be imported like so:
 
 Note: In an effort to keep things simple, the wording from this explanation was modeled after [the installation section of the Redux Docs](https://redux.js.org/#installation).
 
-## Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/prescottprue/react-redux-firebase/graphs/contributors"><img src="https://opencollective.com/react-redux-firebase/contributors.svg?width=890" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏
-
-* [Reside Network Inc.](https://github.com/reside-eng)
-
-[npm-image]: https://img.shields.io/npm/v/react-redux-firebase.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/react-redux-firebase
-[npm-downloads-image]: https://img.shields.io/npm/dm/react-redux-firebase.svg?style=flat-square
-[quality-image]: http://npm.packagequality.com/shield/react-redux-firebase.svg?style=flat-square
-[quality-url]: https://packagequality.com/#?package=react-redux-firebase
-[backers]:https://opencollective.com/react-redux-firebase/backers/badge.svg?style=flat-square&color=blue
-[become-a-backer]:https://opencollective.com/react-redux-firebase#backer
-[travis-image]: https://img.shields.io/travis/prescottprue/react-redux-firebase/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/prescottprue/react-redux-firebase
-[daviddm-image]: https://img.shields.io/david/prescottprue/react-redux-firebase.svg?style=flat-square
-[daviddm-url]: https://david-dm.org/prescottprue/react-redux-firebase
-[climate-image]: https://img.shields.io/codeclimate/github/prescottprue/react-redux-firebase.svg?style=flat-square
-[climate-url]: https://codeclimate.com/github/prescottprue/react-redux-firebase
-[coverage-image]: https://img.shields.io/codecov/c/github/prescottprue/react-redux-firebase.svg?style=flat-square
-[coverage-url]: https://codecov.io/gh/prescottprue/react-redux-firebase
-[license-image]: https://img.shields.io/npm/l/react-redux-firebase.svg?style=flat-square
-[license-url]: https://github.com/prescottprue/react-redux-firebase/blob/master/LICENSE
-[code-style-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square
-[code-style-url]: http://standardjs.com/
-[gitter-image]: https://img.shields.io/gitter/room/redux-firebase/gitter.svg?style=flat-square
-[gitter-url]: https://gitter.im/redux-firebase/Lobby
-[redux-firestore]: https://github.com/prescottprue/redux-firestore
